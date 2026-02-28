@@ -1,0 +1,1 @@
+"""IntelliDoc RAG — Generation package."""

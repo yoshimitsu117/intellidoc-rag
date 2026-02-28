@@ -1,0 +1,1 @@
+"""IntelliDoc RAG — Evaluation package."""
