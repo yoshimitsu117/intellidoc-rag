@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/25622435/README.md)# 📚 IntelliDoc RAG
+(https://github.com/user-attachments/files/25622435/README.md)# 📚 IntelliDoc RAG
 
 **Production-Grade Retrieval-Augmented Generation for Document Q&A**
 
@@ -207,6 +207,6 @@ MIT License — see [LICENSE](LICENSE) for details.
 **Siddharth** — AI Engineer  
 Building production-grade AI systems, not just demos.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/yoshimitsu117)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/siddharth-majhi/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github)](https://github.com/yoshimitsu117)
 
