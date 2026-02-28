@@ -1,4 +1,4 @@
-(https://github.com/user-attachments/files/25622435/README.md)# 📚 IntelliDoc RAG
+📚 IntelliDoc RAG
 
 **Production-Grade Retrieval-Augmented Generation for Document Q&A**
 
